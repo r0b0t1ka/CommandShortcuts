@@ -1,0 +1,10 @@
+name: CommandShortcuts
+main: r0b0t1ka.CommandShortcuts.CommandShortcuts
+version: 1.2
+author: r0b0t1ka
+commands:
+   s:
+      description: plugin command example!
+      usage: /s
+      permission: CommandShortcuts.s
+      permission-message: You don't have <permission>!
