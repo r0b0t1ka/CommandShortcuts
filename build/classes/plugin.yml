@@ -6,5 +6,6 @@ commands:
    s:
       description: plugin command example!
       usage: /s
-      permission: CommandShortcuts.s
-      permission-message: You don't have <permission>!
+permissions:
+  CommandShortcuts.s:
+    description: save-all
