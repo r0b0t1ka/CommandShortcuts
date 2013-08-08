@@ -1,6 +1,6 @@
 name: CommandShortcuts
 main: r0b0t1ka.CommandShortcuts.CommandShortcuts
-version: 1.2
+version: 1.7
 author: r0b0t1ka
 commands:
    s:
